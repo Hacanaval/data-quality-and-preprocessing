@@ -9,12 +9,7 @@ This project focuses on **data processing and exploratory data analysis (EDA)**.
 - **Data Processing:** Formatting and structuring the dataset for better usability.
 - **Exploratory Data Analysis (EDA):** Using statistical summaries and basic visualizations to understand data distribution and trends.
 
-### 📂 Project Structure
-- `src/` - Main scripts for data processing.
-- `notebooks/` - Jupyter notebooks with the exploratory analysis.
-- `data/` - Raw and processed data.
-- `docs/` - Documentation and reports.
-- `tests/` - Unit tests and data validations.
+The analysis is documented in a Jupyter Notebook (`.ipynb`).
 
 ## Versión en Español
 
@@ -25,10 +20,5 @@ Este proyecto se centra en **el procesamiento de datos y el análisis explorator
 - **Procesamiento de Datos:** Formateo y estructuración del conjunto de datos para mejorar su usabilidad.
 - **Análisis Exploratorio (EDA):** Uso de resúmenes estadísticos y visualizaciones básicas para comprender la distribución y tendencias de los datos.
 
-### 📂 Estructura del Proyecto
-- `src/` - Scripts principales para el procesamiento de datos.
-- `notebooks/` - Notebooks Jupyter con el análisis exploratorio.
-- `data/` - Datos en bruto y procesados.
-- `docs/` - Documentación e informes.
-- `tests/` - Pruebas unitarias y validaciones de datos.
+El análisis está documentado en un Notebook Jupyter (`.ipynb`).
 
